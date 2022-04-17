@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gener4lX
+- 👋 Hi, I’m @Genxra
 - 👀 I’m interested in Web & mobile application development on both front & backend.
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any projects :)
